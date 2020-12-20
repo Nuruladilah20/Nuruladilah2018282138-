@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>My Personal Website</title>
+
+<style>{text-align:center;}
+img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;}
+*{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#262626;
+padding:0 50px;
+}
+.logo{
+width:30%;
+float:left;
+color:#fff;
+font-weight:bold;
+text-transform:uppercase;
+line-height:60px;
+font-size:35px;
+font-family:sans-serif;
+}
+nav{
+width:68%;
+float:right;
+}
+nav ul{
+list-style:none;
+float:right;
+}
+nav ul li{
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color:#fff;
+font-family:sans-serif;
+font-weight:bold;
+margin:0 10px;
+line-height:60px;
+text-transform:uppercase;
+}
+.banner{
+height:50%;
+}
+.banner img{
+width:50%;
+height:40vh;
+}
+.content{
+padding:5%;
+}
+.content p{
+font-size:18px;
+line-height:1.7;
+font-family:sans-serif;
+margin-bottom:25px;
+align:center;
+}
+footer{
+background:#000;
+color:#fff;
+padding:15px 50px;
+text-align:center;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<header>
+<div class="ADILAH">ADILAH</div>
+
+<nav>
+<ul>
+<li><a href="index.html">HOME</a></li>
+<li><a href="biodata.html">BIODATA</a></li>
+<li><a href="experience.html">EXPERIENCE</a></li>
+<li><a href="education.html">EDUCATION</a></li>
+<li><a href="family.html">FAMILY</a></li>
+<li><a href="gallery.html">GALLERY</a></li>
+<li><a href="contact.html">CONTACT</a></li>
+</ul>
+</nav>
+</header>
+
+<div class="banner">
+<img src="family.jpg" alt="">
+</div>
+
+<div class="content">
+<p>My name is Nurul Adilah Binti Md Kamarzaman. I am 20 years old. I want to tell you about my family. 
+I have 5 siblings consisting of 4 girls and one boy.</p>
+
+<p>My father's name is Md Kamarzaman bin Aripin. He was born on March 29, 1969 and is now 51 years old.
+He was also born in Klang Selangor. He worked as a Production Operator at the PROTON factory located in
+Shah Alam. My mother's name is Norazinah Binti Annuar. He was born on January 30, 1972 and is now 48 years
+old. My mother is a full-time housewife. My mother and father were married on March 29, 1974 and had 5 
+children. Alhamdulillah, I am also grateful to still have my parents until now. May parents be extended 
+in life so that they can see their children grow up successfully and make them smile with our presence as 
+their children.</p>
+
+<p>My first sister's name is Nurul Amirah Binti Md Kamarzaman. He was born on 4 March 1975 in Klang Selangor.
+He is now 25 years old. He has a firm nature towards his younger brother and always cares about the Family. 
+He was married to Mohd Hilmi on 21 December 2019. They were blessed with a cute princess and named Nur Auliya 
+Husna who is now 3 months old.</p>
+
+<p>My second sister's name is Nurul Aimi Azri Binti Md Kamarzaman. He was born on June 22, 1997 and is now 23 
+years old. He is a loving and always fulfilling Family needs. He is still single and he is a kindergarten 
+teacher in Kajang. I also have a brother named Saiful Asnawi binti Md Kamarzaman. He was born on April 10, 
+1999 and he has a disability. He was very gentle and easy to understand.</p>
+
+<p>I also have a younger sister named Nurul Atiqah Binti Md Kamarzaman. He was born on October 6, 2011. 
+Now he is only 9 years old and still in school. He is a spoiled person but is quick to feel.</p>
+
+<p>May our Family ties always last and be Happy always. Amen.</p>
+
+</body>
+
+</html>

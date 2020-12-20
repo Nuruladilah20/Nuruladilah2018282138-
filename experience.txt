@@ -1,0 +1,73 @@
+}
+.banner img{
+width:100%;
+height:90vh;
+}
+.content{
+padding:5%;
+}
+.content p{
+font-size:18px;
+line-height:1.7;
+font-family:sans-serif;
+margin-bottom:25px;
+}
+footer{
+background:#000;
+color:#fff;
+padding:15px 50px;
+text-align:center;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<div class="ADILAH">logo</div>
+
+<nav>
+<ul>
+<li><a href="index.html">HOME</a></li>
+<li><a href="biodata.html">BIODATA</a></li>
+<li><a href="experience.html">EXPERIENCE</a></li>
+<li><a href="education.html">EDUCATION</a></li>
+<li><a href="family.html">FAMILY</a></li>
+<li><a href="gallery.html">GALLERY</a></li>
+<li><a href="contact.html">CONTACT</a></li>
+</ul>
+</nav>
+</header>
+
+<div class="banner">
+<img src="experience.jpg" alt="">
+</div>
+
+<div class="content">
+<p>Experience ?? Hmmm….</p>
+
+<p>Work experience? Yes I help my family a lot in managing the business and to some extent I can 
+add knowledge about the field of business. I started entering this business world when I was 15 years
+old, and I found out that I was very interested in this field.</p>
+
+<p>After finishing school, I used to work in a shoe store to earn extra money on my own. I can add more 
+knowledge in business.</p>
+
+<p>In April 2018, I was selected to enter the National Service Training Program(PLKN)for 3 months. With 
+this program, I started learning to be independent because I had never been separated from my family before. 
+I was also taught about the spirit of love for the country. We were taught to do a variety of extreme activities. 
+And we are also taught to march so that we can discipline ourselves.</P>
+
+</p>After that, I got an offer at UiTM Merbok. I who am in Selangor feel very afraid to study far away because 
+I know that I will be separated from my family. But because I want to fulfill the dream of a father who wants to 
+see his daughter study at UiTM, so I went too even though it was too hard to leave the family. But when I started 
+studying, I started to feel comfortable with the atmosphere of a new place. Lots of experiences I gained while studying. 
+From here I learned how to live without a family, learned to choose the right friends, and I also learned to resist 
+longing for family. But I am thankful because throughout my studies, I was accompanied by a cousin who also studied here. 
+Despite being bullied often, I learned to live strong in people's places.</p>
+
+
+</body>
+
+</html>
